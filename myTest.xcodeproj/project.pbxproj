@@ -17,6 +17,7 @@
 		A717C51924470AB800C78BEB /* myTestTests.m in Sources */ = {isa = PBXBuildFile; fileRef = A717C51824470AB800C78BEB /* myTestTests.m */; };
 		A717C52424470AB800C78BEB /* myTestUITests.m in Sources */ = {isa = PBXBuildFile; fileRef = A717C52324470AB800C78BEB /* myTestUITests.m */; };
 		A717C53324470E8000C78BEB /* Test1.m in Sources */ = {isa = PBXBuildFile; fileRef = A717C53224470E8000C78BEB /* Test1.m */; };
+		A717C53624470F7800C78BEB /* Test2.m in Sources */ = {isa = PBXBuildFile; fileRef = A717C53524470F7800C78BEB /* Test2.m */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -57,6 +58,8 @@
 		A717C52524470AB800C78BEB /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		A717C53124470E8000C78BEB /* Test1.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = Test1.h; sourceTree = "<group>"; };
 		A717C53224470E8000C78BEB /* Test1.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = Test1.m; sourceTree = "<group>"; };
+		A717C53424470F7800C78BEB /* Test2.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = Test2.h; sourceTree = "<group>"; };
+		A717C53524470F7800C78BEB /* Test2.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = Test2.m; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -120,6 +123,8 @@
 				A717C50E24470AB700C78BEB /* main.m */,
 				A717C53124470E8000C78BEB /* Test1.h */,
 				A717C53224470E8000C78BEB /* Test1.m */,
+				A717C53424470F7800C78BEB /* Test2.h */,
+				A717C53524470F7800C78BEB /* Test2.m */,
 			);
 			path = myTest;
 			sourceTree = "<group>";
@@ -272,6 +277,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				A717C53624470F7800C78BEB /* Test2.m in Sources */,
 				A717C50424470AB600C78BEB /* ViewController.m in Sources */,
 				A717C4FE24470AB600C78BEB /* AppDelegate.m in Sources */,
 				A717C53324470E8000C78BEB /* Test1.m in Sources */,
